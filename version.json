@@ -1,6 +1,6 @@
 {
   "latest_version": "2.2.3",
   "release_date": "2026-11-20",
-  "download_url": "https://github.com/yprojek25-ai/app-undian/releases/download/v2.2.2/Setup_Sistem_Undian_VPRO.exe",
+  "download_url": "https://github.com/yprojek25-ai/app-undian/releases/download/v2.2.3/Setup_Sistem_Undian_VPRO.exe",
   "changelog": "- Tombol Validasi SAH & TIDAK SAH di setiap kotak kandidat\n- Tombol START & STOP berdampingan dengan ikon Settings minimalis\n- Lisensi terpusat di Manajemen Akun & Cek Update GitHub OTA\n- Editor Desain dilengkapi Scale Slider + Angka & Auto-Grid anti-tumpuk"
 }
