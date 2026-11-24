@@ -1,6 +1,6 @@
 {
-  "latest_version": "2.2.2",
-  "release_date": "20/11/2026",
-  "download_url": "https://github.com/yprojek25-ai/app-undian/releases/download/v2.2.2/Setup_Sistem_Undian_VPRO_v2.2.2.exe",
-  "changelog": "Pembaruan fitur dan perbaikan sistem."
+  "latest_version": "2.2.3",
+  "release_date": "24/11/2026",
+  "download_url": "https://github.com/yprojek25-ai/app-undian/releases/download/v2.2.3/Setup_Sistem_Undian_VPRO_v2.2.3.exe",
+  "changelog": "Perbaikan lisensi nyangkut saat update di laptop lain (auto-migrasi ID Mesin lama ke MachineGuid), atomic save & backup otomatis file lisensi, hapus otomatis file instalasi lama saat update, serta peningkatan stabilitas."
 }
