@@ -1,6 +1,6 @@
 {
-  "latest_version": "2.2.3",
-  "release_date": "24/11/2026",
-  "download_url": "https://github.com/yprojek25-ai/app-undian/releases/download/v2.2.3/Setup_Sistem_Undian_VPRO_v2.2.3.exe",
-  "changelog": "Perbaikan lisensi nyangkut saat update di laptop lain (auto-migrasi ID Mesin lama ke MachineGuid), atomic save & backup otomatis file lisensi, hapus otomatis file instalasi lama saat update, serta peningkatan stabilitas."
+  "latest_version": "2.2.4",
+  "release_date": "25/11/2026",
+  "download_url": "https://github.com/yprojek25-ai/app-undian/releases/download/v2.2.4/Setup_Sistem_Undian_VPRO_v2.2.4.exe",
+  "changelog": "Pembaruan tema warna biru-emas (#ffffff, #fbb040, #ffca07, #5fc8f1, #144798, #2b3990) dan penambahan tombol validasi massal TIDAK SAH SEMUA."
 }
